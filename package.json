@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hellokey",
+        "scope": null,
+        "escapedName": "hellokey",
+        "name": "hellokey",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\hk"
+    ]
+  ],
+  "_from": "hellokey@latest",
+  "_id": "hellokey@1.0.0",
+  "_inCache": true,
+  "_location": "/hellokey",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/hellokey-1.0.0.tgz_1477405757493_0.7574930251576006"
+  },
+  "_npmUser": {
+    "name": "batadaku",
+    "email": "batadaku@126.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hellokey",
+    "scope": null,
+    "escapedName": "hellokey",
+    "name": "hellokey",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/hellokey/-/hellokey-1.0.0.tgz",
+  "_shasum": "409e8f51434f9ce57064038a6a5f9e55ea4b3260",
+  "_shrinkwrap": null,
+  "_spec": "hellokey",
+  "_where": "D:\\hk",
+  "author": "",
+  "dependencies": {},
+  "description": "this is a hello key",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "409e8f51434f9ce57064038a6a5f9e55ea4b3260",
+    "tarball": "https://registry.npmjs.org/hellokey/-/hellokey-1.0.0.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "batadaku",
+      "email": "batadaku@126.com"
+    }
+  ],
+  "name": "hellokey",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
