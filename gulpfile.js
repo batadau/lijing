@@ -5,7 +5,7 @@ var webserver = require('gulp-webserver');
 
 gulp.task('webserver', function(){
 gulp.src('./')
-.pipe(webserver({
+.pipe(websersdfsfsdfver({
 port: 80,//端口
 host: '127.0.0.1',//域名
 liveload: true,//实时刷新代码。不用f5刷新
